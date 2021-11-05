@@ -1,0 +1,15 @@
+{
+  "name": "typescript-demo",
+  "version": "1.0.0",
+  "description": "TypeScript demo setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/google.maps": "^3.46.1",
+    "@types/node": "^16.11.6"
+  }
+}
